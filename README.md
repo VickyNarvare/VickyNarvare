@@ -208,18 +208,6 @@ const whatIDo = {
 
 </div>
 
----
-
-<div align="center">
-
-## 👀 Profile Visitors:
-
-![Profile Views](https://visitcount.itsvg.in/api?id=VickyNarvare&icon=4&color=0)
-
-</div>
-
----
-
 <div align="center">
 
 ## 🙏 Thank You For Visiting!
