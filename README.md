@@ -2,11 +2,11 @@
   
 # 💫 Hi 👋, I'm Vicky Narvare   
 
-### 🚀 A passionate Frontend Developer || Frontend Designer from India 🇮🇳
+### 🚀 Front-End Developer | UI/UX Designer | React Developer | Next.js Developer | Web Developer in Indore
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+create+beautiful+web+experiences;Let's+build+something+amazing+together+🚀)
 
-**🎨 Transforming ideas into beautiful, interactive web experiences | 💻 Passionate about clean code & modern design | 🌟 Always learning & growing**
+**🎨 Front-End Developer | UI/UX Designer | React & Next.js Developer | Tailwind CSS | Figma to Code | HTML CSS JavaScript | Web Developer in Indore | Remote React Developer | SEO-Optimized Websites | Pixel-Perfect Design | Mobile First Web Development | Cross-Browser Compatible UI**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VickyNarvare&theme=radical&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -28,13 +28,33 @@
 
 ```javascript
 const vicky = {
-  role: "Frontend Developer & Designer",
-  location: "India 🇮🇳",
-  currentlyWorkingOn: "Frontend Development Projects",
+  role: "Front-End Developer | UI/UX Designer | React Developer | Next.js Developer",
+  location: "Indore, India 🇮🇳 | Remote Developer Available",
+  specialization: [
+    "React Developer",
+    "Next.js Developer", 
+    "Tailwind CSS Specialist",
+    "Figma to Code Conversion",
+    "HTML CSS JavaScript Expert",
+    "SEO-Optimized Websites",
+    "Pixel-Perfect Design",
+    "Mobile First Web Development",
+    "Cross-Browser Compatible UI"
+  ],
+  currentlyWorkingOn: "Frontend Development Projects | Remote React Developer",
   currentlyLearning: ["Advanced React", "Next.js", "TypeScript"],
-  lookingToCollaborateOn: "Open Source Projects",
-  askMeAbout: ["React", "JavaScript", "CSS", "UI/UX Design"],
-  funFact: "I love creating beautiful and responsive user interfaces! 🎨",
+  lookingToCollaborateOn: "Open Source Projects | Web Development",
+  askMeAbout: [
+    "React", 
+    "Next.js", 
+    "JavaScript", 
+    "HTML CSS", 
+    "UI/UX Design",
+    "Tailwind CSS",
+    "Figma to Code",
+    "SEO Optimization"
+  ],
+  funFact: "I specialize in creating pixel-perfect, SEO-optimized, mobile-first websites with cross-browser compatibility! 🎨",
   email: "vickynarvare2005@gmail.com"
 };
 ```
