@@ -4,7 +4,9 @@
 
 ### 🚀 A passionate Frontend Developer || Frontend Designer from India 🇮🇳
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+create+beautiful+web+experiences;Let's+build+something+amazing+together+🚀)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+create+beautiful+web+experiences;Let's+build+something+amazing+together+🚀)
+
+**🎨 Transforming ideas into beautiful, interactive web experiences | 💻 Passionate about clean code & modern design | 🌟 Always learning & growing**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VickyNarvare&theme=radical&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
