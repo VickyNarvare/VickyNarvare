@@ -8,8 +8,7 @@
 
 **🎨 Front-End Developer | UI/UX Designer | React & Next.js Developer | Tailwind CSS | Figma to Code | HTML CSS JavaScript | Web Developer in Indore | Remote React Developer | SEO-Optimized Websites | Pixel-Perfect Design | Mobile First Web Development | Cross-Browser Compatible UI**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VickyNarvare&theme=radical&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ---
