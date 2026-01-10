@@ -14,7 +14,7 @@
 
 <div align="center">
   
-### 📧 Email Me: **vickynarvare2005@gmail.com** | For Collaboration/Project or Anything Else! 😊😊
+### 📧 Email Me: **vickynarvare.dev@gmail.com** | For Collaboration/Project or Anything Else! 😊😊
 
 </div>
 
@@ -53,7 +53,7 @@ const vicky = {
     "SEO Optimization"
   ],
   funFact: "I specialize in creating pixel-perfect, SEO-optimized, mobile-first websites with cross-browser compatibility! 🎨",
-  email: "vickynarvare2005@gmail.com"
+  email: "vickynarvare.dev@gmail.com"
 };
 ```
 
@@ -63,7 +63,7 @@ const vicky = {
 
 ## 🌐 Connect With Me:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickynarvare2005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vickynarvare.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicky-narvare-4a7712395)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://vickynarvare.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VickyNarvare)
@@ -203,7 +203,7 @@ const whatIDo = {
 </div>
 
 ### 💼 Professional Links:
-- 📧 **Email:** [vickynarvare2005@gmail.com](mailto:vickynarvare2005@gmail.com)
+- 📧 **Email:** [vickynarvare.dev@gmail.com](mailto:vickynarvare.dev@gmail.com)
 - 🌐 **Portfolio:** [vickynarvare.vercel.app](https://vickynarvare.vercel.app)
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/vicky-narvare-4a7712395)
 
