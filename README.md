@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Hi 👋, I'm Vicky Narvare
@@ -156,4 +155,3 @@ If you like my work, consider giving a ⭐ to my repositories.
 <img src="https://komarev.com/ghpvc/?username=VickyNarvare&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
-```
