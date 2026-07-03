@@ -115,26 +115,26 @@ clean architecture, and exceptional user experiences.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VickyNarvare&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
+  <a href="mailto:vickynarvare.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="mailto:vickynarvare.dev@gmail.com">📧 Email</a> •
-<a href="https://vickynarvare.vercel.app">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/in/vicky-narvare-4a7712395">💼 LinkedIn</a> •
-<a href="https://github.com/VickyNarvare">💻 GitHub</a>
+  <a href="https://www.linkedin.com/in/vicky-narvare-4a7712395">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
+  <a href="https://vickynarvare.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/VickyNarvare">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
