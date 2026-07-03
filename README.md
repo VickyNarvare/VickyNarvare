@@ -95,11 +95,9 @@ clean architecture, and exceptional user experiences.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VickyNarvare&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=VickyNarvare&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=VickyNarvare&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickyNarvare&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VickyNarvare&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -142,7 +140,7 @@ clean architecture, and exceptional user experiences.
 
 ## 💬 Developer Quote
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+>> *"First, solve the problem. Then, write the code."* — John Johnson
 
 ---
 
