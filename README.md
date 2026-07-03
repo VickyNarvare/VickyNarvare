@@ -1,26 +1,30 @@
+```markdown
 <div align="center">
 
 # Hi 👋, I'm Vicky Narvare
 
-### 🚀 Frontend Developer | React • Next.js • TypeScript
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences...;React+%7C+Next.js+%7C+TypeScript;Clean+Code+%E2%80%A2+Responsive+UI+%E2%80%A2+Performance" />
+### 🚀 MERN Stack Developer | React • Next.js • Node.js • Express • MongoDB
 
 <p>
-Building fast, scalable and user-friendly web applications with a focus on performance, accessibility and clean UI.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;Building+Scalable+Full-Stack+Applications;Clean+Code+%7C+Modern+UI+%7C+Performance;Always+Learning+%F0%9F%9A%80" />
+</p>
+
+<p>
+Building scalable, high-performance web applications with modern technologies,
+clean architecture, and exceptional user experiences.
 </p>
 
 <p>
 <a href="mailto:vickynarvare.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vicky-narvare-4a7712395">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://vickynarvare.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/VickyNarvare">
@@ -35,56 +39,66 @@ Building fast, scalable and user-friendly web applications with a focus on perfo
 
 # 👨‍💻 About Me
 
-- 🚀 Frontend Developer passionate about modern web technologies.
-- ⚛️ Building applications using React & Next.js.
-- 🎨 Love creating beautiful and responsive UI.
-- 🌱 Currently learning TypeScript & Backend Development.
-- 🤝 Open to Freelance, Remote & Open Source opportunities.
-- ☕ Turning ideas into real products with code.
+- 💻 MERN Stack Developer passionate about building modern web applications.
+- ⚛️ Specialized in React, Next.js, Node.js, Express.js & MongoDB.
+- 🎨 Passionate about clean UI, responsive design and great user experience.
+- 🚀 Focused on performance, scalability and writing maintainable code.
+- 🌱 Currently learning TypeScript, System Design and Cloud Technologies.
+- 🤝 Open to Full-Time, Freelance and Open Source opportunities.
+- ⚡ I enjoy turning ideas into real-world digital products.
 
 ---
 
-# ⚡ Tech Stack
+# 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
-### Tools
+### 🧰 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,npm" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Current Focus
 
-✨ Portfolio Website
-
-🛒 Modern E-Commerce UI
-
-📱 Responsive Landing Pages
-
-💬 React Dashboard
+- 🔹 Building scalable MERN applications
+- 🔹 Creating reusable React components
+- 🔹 Developing secure REST APIs
+- 🔹 Learning DevOps & Cloud
+- 🔹 Contributing to Open Source
 
 ---
 
-# 📊 GitHub Stats
+# 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌐 Portfolio Website | Personal portfolio built with Next.js |
+| 🛒 E-Commerce Platform | Full-stack MERN shopping application |
+| 💬 Chat Application | Real-time chat app using Socket.io |
+| 📋 Task Manager | Productivity application with authentication |
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=VickyNarvare&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=VickyNarvare&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://nirzak-streak-stats.vercel.app/?user=VickyNarvare&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickyNarvare&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -94,22 +108,32 @@ Building fast, scalable and user-friendly web applications with a focus on perfo
 
 # 📈 Contribution Graph
 
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VickyNarvare&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VickyNarvare&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-📧 **Email**
-vickynarvare.dev@gmail.com
-
-🌍 **Portfolio**
-https://vickynarvare.vercel.app
-
-💼 **LinkedIn**
-https://linkedin.com/in/vicky-narvare-4a7712395
+<a href="mailto:vickynarvare.dev@gmail.com">📧 Email</a> •
+<a href="https://vickynarvare.vercel.app">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/vicky-narvare-4a7712395">💼 LinkedIn</a> •
+<a href="https://github.com/VickyNarvare">💻 GitHub</a>
 
 </p>
 
@@ -117,8 +141,19 @@ https://linkedin.com/in/vicky-narvare-4a7712395
 
 <div align="center">
 
+## 💬 Developer Quote
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
 ### ⭐ Thanks for visiting my profile!
 
-**Let's build something amazing together 🚀**
+If you like my work, consider giving a ⭐ to my repositories.
+
+**Let's build something amazing together! 🚀**
+
+<img src="https://komarev.com/ghpvc/?username=VickyNarvare&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
+```
