@@ -1,30 +1,24 @@
 <div align="center">
 
-# Hi 👋, I'm Vicky Narvare
+# Hi 👋 I'm Vicky Narvare
 
-### 🚀 Frontend Developer | React • Next.js • TypeScript
+### Frontend Engineer • React • Next.js • TypeScript
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences...;React+%7C+Next.js+%7C+TypeScript;Clean+Code+%E2%80%A2+Responsive+UI+%E2%80%A2+Performance" />
+Building high-performance, scalable and user-centric web applications with modern technologies.
 
-<p>
-Building fast, scalable and user-friendly web applications with a focus on performance, accessibility and clean UI.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Engineer;React+%7C+Next.js+%7C+TypeScript;Building+Fast+%26+Modern+Web+Applications;Clean+Code+%E2%80%A2+Responsive+UI+%E2%80%A2+Performance" />
 
 <p>
 <a href="mailto:vickynarvare.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vicky-narvare-4a7712395">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://vickynarvare.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/VickyNarvare">
-<img src="https://img.shields.io/github/followers/VickyNarvare?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
@@ -33,92 +27,76 @@ Building fast, scalable and user-friendly web applications with a focus on perfo
 
 ---
 
-# 👨‍💻 About Me
+## 💡 About Me
 
-- 🚀 Frontend Developer passionate about modern web technologies.
-- ⚛️ Building applications using React & Next.js.
-- 🎨 Love creating beautiful and responsive UI.
-- 🌱 Currently learning TypeScript & Backend Development.
-- 🤝 Open to Freelance, Remote & Open Source opportunities.
-- ☕ Turning ideas into real products with code.
-
----
-
-# ⚡ Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel" />
-</p>
+- 🚀 Frontend Engineer focused on building modern web experiences.
+- ⚛️ Specialized in **React, Next.js and TypeScript**.
+- 🎨 Passionate about clean UI, accessibility and performance.
+- 📚 Continuously learning new technologies and best practices.
+- 🤝 Open to Remote Opportunities, Freelance Projects and Open Source Collaboration.
+- ☕ I enjoy transforming ideas into fast, scalable digital products.
 
 ---
 
-# 🚀 Featured Projects
+## ⚙️ Tech Stack
 
-✨ Portfolio Website
+Frontend
 
-🛒 Modern E-Commerce UI
+React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
 
-📱 Responsive Landing Pages
+Backend
 
-💬 React Dashboard
+Node.js • Express • MongoDB • Firebase
 
----
+Tools
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=VickyNarvare&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=VickyNarvare&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickyNarvare&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+Git • GitHub • VS Code • Figma • Vercel
 
 ---
 
-# 📈 Contribution Graph
+## 🚀 Current Focus
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VickyNarvare&theme=tokyo-night&hide_border=true"/>
+✔ Building production-ready React & Next.js applications
+
+✔ Improving performance and accessibility
+
+✔ Exploring full-stack development
+
+✔ Contributing to Open Source
 
 ---
 
-# 🌐 Connect With Me
+## 📈 GitHub Analytics
 
-<p align="left">
+(GitHub Stats)
+
+(Streak Stats)
+
+(Top Languages)
+
+(Activity Graph)
+
+---
+
+## 🤝 Let's Connect
 
 📧 **Email**
 vickynarvare.dev@gmail.com
 
-🌍 **Portfolio**
+🌐 **Portfolio**
 https://vickynarvare.vercel.app
 
 💼 **LinkedIn**
-https://linkedin.com/in/vicky-narvare-4a7712395
-
-</p>
+linkedin.com/in/vicky-narvare-4a7712395
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting 👋
 
-**Let's build something amazing together 🚀**
+*"Great software is built with curiosity, consistency, and clean code."*
+
+⭐ If you like my work, consider starring my repositories.
 
 </div>
