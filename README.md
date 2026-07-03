@@ -132,16 +132,6 @@ const vicky = {
 
 <div align="center">
 
-## 🏆 GitHub Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=VickyNarvare&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-<div align="center">
-
 ## 🎯 What I Do:
 
 </div>
@@ -204,7 +194,7 @@ const whatIDo = {
 
 ### 💼 Professional Links:
 - 📧 **Email:** [vickynarvare.dev@gmail.com](mailto:vickynarvare.dev@gmail.com)
-- 🌐 **Portfolio:** [vickynarvare.vercel.app](https://vickynarvare.vercel.app)
+- 🌐 **Portfolio:** [vicky-narvare.vercel.app](https://vicky-narvare.vercel.app)
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/vicky-narvare-4a7712395)
 
 ### 🚀 Always Open To:
