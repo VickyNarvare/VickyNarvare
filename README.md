@@ -4,6 +4,16 @@
 
 ### 🚀 MERN Stack Developer | React • Next.js • Node.js • Express • MongoDB
 
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/VickyNarvare?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/stars/VickyNarvare?style=for-the-badge&logo=github&label=Stars" />
+<img src="https://komarev.com/ghpvc/?username=VickyNarvare&style=for-the-badge&label=Profile+Views&color=0e75b6" />
+<img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Made%20With-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=for-the-badge" />
+
+</p>
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;Building+Scalable+Full-Stack+Applications;Clean+Code+%7C+Modern+UI+%7C+Performance;Always+Learning+%F0%9F%9A%80" />
 </p>
