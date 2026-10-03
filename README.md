@@ -105,10 +105,6 @@ I'm a **MERN Stack Developer** focused on building modern, scalable and user-fri
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickyNarvare&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=VickyNarvare&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
