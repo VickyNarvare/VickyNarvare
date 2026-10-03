@@ -113,19 +113,6 @@ I'm a **MERN Stack Developer** focused on building modern, scalable and user-fri
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://YOUR-OWN-DOMAIN.vercel.app/graph?username=VickyNarvare&theme=tokyo-night&hide_border=true&area=true"
-  alt="Vicky Narvare GitHub Activity Graph"
-/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
