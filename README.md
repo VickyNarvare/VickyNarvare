@@ -118,8 +118,8 @@ I'm a **MERN Stack Developer** focused on building modern, scalable and user-fri
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=VickyNarvare&theme=tokyo-night&hide_border=true&area=true"
-alt="Vicky Narvare GitHub Activity Graph"
+  src="https://YOUR-OWN-DOMAIN.vercel.app/graph?username=VickyNarvare&theme=tokyo-night&hide_border=true&area=true"
+  alt="Vicky Narvare GitHub Activity Graph"
 />
 
 </div>
@@ -138,7 +138,7 @@ alt="Vicky Narvare GitHub Activity Graph"
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://vickynarvare.vercel.app">
+<a href="https://vicky-narvare.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
